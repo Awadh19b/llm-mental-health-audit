@@ -2,7 +2,7 @@
  
 **A reproducible red-teaming study of `llama3.2` across 97 prompts and 485 sampled responses**
  
-**Author:** [Your name], [affiliation]  **Date:** 2026-11-10  **Code and prompts:** github.com/Awadh19b/llm-mental-health-audit
+**Author:** Awadh Ba Odhah, **Date:** 2026-11-10  **Code and prompts:** github.com/Awadh19b/llm-mental-health-audit
  
 > **Content note.** This paper discusses suicide, self-harm and eating disorders. Unsafe model outputs are described, not reproduced.
  
